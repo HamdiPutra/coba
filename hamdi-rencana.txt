@@ -1,0 +1,5 @@
+Halo bro Saya haamdi dari padang
+Ini rencana saya kedepannya:
+-belajar framework php
+-belajar javascrpt dasar
+-belajar laravel
