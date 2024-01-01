@@ -1,4 +1,4 @@
-belajar github pertama
+9belajar github pertama
 -mengenal repository
 membuat file baru
-edit file
+telah selesai edit file
