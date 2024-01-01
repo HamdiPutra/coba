@@ -1,3 +1,4 @@
 belajar github pertama
 -mengenal repository
 membuat file baru
+edit file
